@@ -1,0 +1,88 @@
+@font-face {
+    font-family: "flaticon2";
+    src: url("../fonts/flaticon2.ttf") format("truetype"),
+url("../fonts/flaticon2.woff") format("woff"),
+url("../fonts/flaticon2.woff2") format("woff2"),
+url("../fonts/flaticon2.eot") format("embedded-opentype"),
+url("../fonts/flaticon2.svg") format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon2";
+    src: url("../fonts/flaticon2.svg#Flaticon") format("svg");
+  }
+}
+
+.flaticon-next:before {
+    content: "\f101";
+}
+.flaticon-side-up:before {
+    content: "\f102";
+}
+.flaticon-bitcoin:before {
+    content: "\f103";
+}
+.flaticon-ethereum:before {
+    content: "\f104";
+}
+.flaticon-team:before {
+    content: "\f105";
+}
+.flaticon-teamwork:before {
+    content: "\f106";
+}
+.flaticon-user:before {
+    content: "\f107";
+}
+.flaticon-leader:before {
+    content: "\f108";
+}
+.flaticon-facebook:before {
+    content: "\f109";
+}
+.flaticon-telephone-call:before {
+    content: "\f10a";
+}
+.flaticon-map:before {
+    content: "\f10b";
+}
+.flaticon-mail:before {
+    content: "\f10c";
+}
+.flaticon-loupe:before {
+    content: "\f10d";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f10e";
+}
+.flaticon-next-1:before {
+    content: "\f10f";
+}
+.flaticon-right-arrows:before {
+    content: "\f110";
+}
+.flaticon-send:before {
+    content: "\f111";
+}
+.flaticon-trending-topic:before {
+    content: "\f112";
+}
+.flaticon-settings:before {
+    content: "\f113";
+}
+.flaticon-wallet:before {
+    content: "\f114";
+}
+.flaticon-bank:before {
+    content: "\f115";
+}
+.flaticon-bell:before {
+    content: "\f116";
+}
+.flaticon-currency:before {
+    content: "\f117";
+}
+.flaticon-checked:before {
+    content: "\f118";
+}
