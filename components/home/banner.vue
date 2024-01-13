@@ -7,7 +7,7 @@
                     <div
                         class="banner__content xl:pt-[140px] xl:pb-[180px] lg:pt-[120px] lg:pb-[150px] md:pt-[90px] md:pb-[100px] sm:pt-[80px] sm:pb-[85px] py-[60px] xl:pl-10 pl-0">
                         <a href=""
-                            class="bn__currently md:text-[24px] text-base leading-[140%] md:mb-[50px] mb-6 border-b border-b-clr_white text-clr_white inline-block pb-4 hover:text-clr_base hover:border-b-clr_base capitalize">
+                            class="bn__currently md:text-[24px]  leading-[140%] md:mb-[50px] mb-6 border-b border-b-clr_white text-clr_white inline-block pb-4 hover: hover:border-b-clr_base capitalize">
                             <span class="block"> Currently available for freelance </span>
                             <span class="flex gap-4 items-center">
                                 worldwide
@@ -31,7 +31,7 @@
                                     <i class="bi bi-play-fill"></i>
                                 </i>
                             </a>
-                            <span class="proces sm:text-xl text-base text-clr_white w-[67px]">Work Process</span>
+                            <span class="proces sm:text-xl  text-clr_white w-[67px]">Work Process</span>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                 </a>
             </div>
         </div>
-        <div class="banner__rightinfo hidden absolute right-0 top-[55%] -translate-y-1/2 xl:grid gap-[150px]">
+        <div class="banner__rightinfo hidden absolute right-0 top-[65%] -translate-y-1/2 xl:grid gap-[150px]">
             <div class="right__infoscroll flex items-center justify-center gap-[50px] rotate-90">
                 <a href="" class="scroll text-clr_pra uppercase text-[15px]">
                     Follow Me

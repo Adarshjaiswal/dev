@@ -6,7 +6,7 @@
       <div class="personal__head text-center mx-auto xl:mb-[60px] md:mb-[50px] mb-[30px]">
         <img src="~/assets/img/about/section-star.png" class="my-[30px]  mx-auto" alt="star" data-aos="fade-up"
           data-aos-duration="1000" />
-        <p class="descrp lg:text-[42px] md:text-[28px] sm:text-xl text-base font-medium text-clr_white lg:leading-[66px]"
+        <p class="descrp lg:text-[42px] md:text-[28px] sm:text-xl  font-medium text-clr_white lg:leading-[66px]"
           data-aos="fade-up" data-aos-duration="1500">
           I'm David Matias, I'm a Brand & Webflow Designer, Currently residing
           in the lush Victoria Street London, Matias operates globally and is
@@ -73,7 +73,7 @@
                           <div
                             class="abox rounded-[10px] bg-[] p-[35px] border border-[#1D1D1D] duration-500 hover:border-clr_base">
                             <div class="">
-                              <span class="ptext text-clr_pra fz-18 md:text-lg text-base mb-5 block">
+                              <span class="ptext text-clr_pra fz-18 md:text-lg  mb-5 block">
                                 Email
                               </span>
                               <a href="" class="text-xl text-clr_white">dev.mostafizar.com</a>
@@ -82,7 +82,7 @@
                           <div
                             class="abox rounded-[10px] bg-[] p-[35px] border border-[#1D1D1D] duration-500 hover:border-clr_base">
                             <div class="">
-                              <span class="ptext text-clr_pra fz-18 md:text-lg text-base mb-5 block">
+                              <span class="ptext text-clr_pra fz-18 md:text-lg  mb-5 block">
                                 Phone
                               </span>
                               <a href="" class="text-xl text-clr_white">01575699193</a>
@@ -91,7 +91,7 @@
                           <div
                             class="abox rounded-[10px] bg-[] p-[35px] border border-[#1D1D1D] duration-500 hover:border-clr_base">
                             <div class="">
-                              <span class="ptext text-clr_pra fz-18 md:text-lg text-base mb-5 block">
+                              <span class="ptext text-clr_pra fz-18 md:text-lg  mb-5 block">
                                 Address
                               </span>
                               <a href="" class="text-xl text-clr_white">Dahagram, Lalmonirhat</a>
@@ -100,7 +100,7 @@
                           <div
                             class="abox rounded-[10px] bg-[] p-[35px] border border-[#1D1D1D] duration-500 hover:border-clr_base">
                             <div class="">
-                              <span class="ptext text-clr_pra fz-18 md:text-lg text-base mb-5 block">
+                              <span class="ptext text-clr_pra fz-18 md:text-lg  mb-5 block">
                                 Follow
                               </span>
                               <ul class="flex items-center xl:gap-4 gap-2">
@@ -161,42 +161,42 @@
                     <div class="exprience__box lg:mt-[30px] mt-5">
                       <div
                         class="exri__item flex items-center justify-between border-t border-t-clr_cusborder py-6 duration-500 last:border-y last:border-b-clr_cusborder hover:border-clr_hover">
-                        <span class="md:text-lg text-base font-medium text-clr_base">
+                        <span class="md:text-lg  font-medium ">
                           In 2011
                         </span>
                         <div class="expri__cont">
                           <h4 class="mb-[15px] text-white font-semibold md:text-2xl text-lg leading-[130px]">
                             Software Engineer
                           </h4>
-                          <p class="md:text-lg text-base text-clr_pra d-block">
+                          <p class="md:text-lg  text-clr_pra d-block">
                             UI Head & Manager
                           </p>
                         </div>
                       </div>
                       <div
                         class="exri__item flex items-center justify-between border-t border-t-clr_cusborder py-6 duration-500 last:border-y last:border-b-clr_cusborder hover:border-clr_hover">
-                        <span class="md:text-lg text-base font-medium text-clr_base">
+                        <span class="md:text-lg  font-medium ">
                           In 2016
                         </span>
                         <div class="expri__cont">
                           <h4 class="mb-[15px] text-white font-semibold md:text-2xl text-lg leading-[130px]">
                             Product Designer
                           </h4>
-                          <p class="md:text-lg text-base text-clr_pra d-block">
+                          <p class="md:text-lg  text-clr_pra d-block">
                             Head of Department
                           </p>
                         </div>
                       </div>
                       <div
                         class="exri__item flex items-center justify-between border-t border-t-clr_cusborder py-6 duration-500 last:border-y last:border-b-clr_cusborder hover:border-clr_hover">
-                        <span class="md:text-lg text-base font-medium text-clr_base">
+                        <span class="md:text-lg  font-medium ">
                           In 2023
                         </span>
                         <div class="expri__cont">
                           <h4 class="mb-[15px] text-white font-semibold md:text-2xl text-lg leading-[130px]">
                             Senior UI Designer
                           </h4>
-                          <p class="md:text-lg text-base text-clr_pra d-block">
+                          <p class="md:text-lg  text-clr_pra d-block">
                             Fiverr.com
                           </p>
                         </div>
@@ -233,42 +233,42 @@
                     <div class="exprience__box lg:mt-[30px] mt-5">
                       <div
                         class="exri__item flex items-center justify-between border-t border-t-clr_cusborder py-6 duration-500 last:border-y last:border-b-clr_cusborder hover:border-clr_hover">
-                        <span class="md:text-lg text-base font-medium text-clr_base">
+                        <span class="md:text-lg  font-medium ">
                           2011 - 2013
                         </span>
                         <div class="expri__cont">
                           <h4 class="mb-[15px] text-white font-semibold md:text-2xl text-lg leading-[130px]">
                             Programming Course
                           </h4>
-                          <p class="md:text-lg text-base text-clr_pra d-block">
+                          <p class="md:text-lg  text-clr_pra d-block">
                             New York University
                           </p>
                         </div>
                       </div>
                       <div
                         class="exri__item flex items-center justify-between border-t border-t-clr_cusborder py-6 duration-500 last:border-y last:border-b-clr_cusborder hover:border-clr_hover">
-                        <span class="md:text-lg text-base font-medium text-clr_base">
+                        <span class="md:text-lg  font-medium ">
                           2013 - 2016
                         </span>
                         <div class="expri__cont">
                           <h4 class="mb-[15px] text-white font-semibold md:text-2xl text-lg leading-[130px]">
                             University Of Design
                           </h4>
-                          <p class="md:text-lg text-base text-clr_pra d-block">
+                          <p class="md:text-lg  text-clr_pra d-block">
                             Kingston, United States
                           </p>
                         </div>
                       </div>
                       <div
                         class="exri__item flex items-center justify-between border-t border-t-clr_cusborder py-6 duration-500 last:border-y last:border-b-clr_cusborder hover:border-clr_hover">
-                        <span class="md:text-lg text-base font-medium text-clr_base">
+                        <span class="md:text-lg  font-medium ">
                           2016 - 2018
                         </span>
                         <div class="expri__cont">
                           <h4 class="mb-[15px] text-white font-semibold md:text-2xl text-lg leading-[130px]">
                             Web Design Course
                           </h4>
-                          <p class="md:text-lg text-base text-clr_pra d-block">
+                          <p class="md:text-lg  text-clr_pra d-block">
                             New York University
                           </p>
                         </div>
@@ -312,7 +312,7 @@
                             </div>
                             <div class="mys">
                               <span
-                                class="ptext md:text-lg text-base lg:mb-[15px] mb-[10px] block text-clr_pra">HTML</span>
+                                class="ptext md:text-lg  lg:mb-[15px] mb-[10px] block text-clr_pra">HTML</span>
                               <h1 class="font-semibold text-5xl text-clr_white">
                                 85%
                               </h1>
@@ -327,7 +327,7 @@
                             </div>
                             <div class="mys">
                               <span
-                                class="ptext md:text-lg text-base lg:mb-[15px] mb-[10px] block text-clr_pra">Figma</span>
+                                class="ptext md:text-lg  lg:mb-[15px] mb-[10px] block text-clr_pra">Figma</span>
                               <h1 class="font-semibold text-5xl text-clr_white">
                                 90%
                               </h1>
@@ -342,7 +342,7 @@
                             </div>
                             <div class="mys">
                               <span
-                                class="ptext md:text-lg text-base lg:mb-[15px] mb-[10px] block text-clr_pra">Wordpress</span>
+                                class="ptext md:text-lg  lg:mb-[15px] mb-[10px] block text-clr_pra">Wordpress</span>
                               <h1 class="font-semibold text-5xl text-clr_white">
                                 95%
                               </h1>
@@ -357,7 +357,7 @@
                             </div>
                             <div class="mys">
                               <span
-                                class="ptext md:text-lg text-base lg:mb-[15px] mb-[10px] block text-clr_pra">Bootstrap</span>
+                                class="ptext md:text-lg  lg:mb-[15px] mb-[10px] block text-clr_pra">Bootstrap</span>
                               <h1 class="font-semibold text-5xl text-clr_white">
                                 97%
                               </h1>

@@ -9,7 +9,7 @@
           class="text-center max-w-[920px] mx-auto md:mb-[60px] sm:mb-[50px] mb-[45px]"
         >
           <p
-            class="text-2xl font-caveat text-clr_base relative flex justify-center items-center sm:gap-6 gap-[14px] mx-auto mb-[30px]"
+            class="text-2xl font-caveat  relative flex justify-center items-center sm:gap-6 gap-[14px] mx-auto mb-[30px]"
             data-aos="fade-down"
             data-aos-duration="1000"
           >
@@ -18,7 +18,7 @@
             <span class="sm:w-20 w-[50px] h-[1px] bg-clr_base"></span>
           </p>
           <h2
-            class="font-medium lg:text-6xl md:text-5xl sm:text-4xl text-[29px] text-black lg:leading-[120%] md:leading-tight leading-9"
+            class="font-medium lg:text-6xl md:text-5xl sm:text-4xl text-[29px] text-[#1D1D1D] lg:leading-[120%] md:leading-tight leading-9"
             data-aos="fade-up"
             data-aos-duration="1200"
           >
@@ -49,7 +49,7 @@
             <div class="content flex items-center justify-between gap-1">
               <a href="./protfolio.html" class="left__cont">
                 <span
-                  class="text-clr_base xl:mb-4 mb-2 block uppercase xl:text-lg text-base"
+                  class=" xl:mb-4 mb-2 block uppercase xl:text-lg "
                 >
                   PRODUCT DESIGN
                 </span>
@@ -91,7 +91,7 @@
             <div class="content flex items-center justify-between gap-1">
               <a href="./protfolio.html" class="left__cont">
                 <span
-                  class="text-clr_base xl:mb-4 mb-2 block uppercase xl:text-lg text-base"
+                  class=" xl:mb-4 mb-2 block uppercase xl:text-lg "
                 >
                   UI/UX DESIGN
                 </span>
@@ -132,7 +132,7 @@
             <div class="content flex items-center justify-between gap-1">
               <a href="./protfolio.html" class="left__cont">
                 <span
-                  class="text-clr_base xl:mb-4 mb-2 block uppercase xl:text-lg text-base"
+                  class=" xl:mb-4 mb-2 block uppercase xl:text-lg "
                 >
                   PRODUCT DESIGN
                 </span>
@@ -173,7 +173,7 @@
             <div class="content flex items-center justify-between gap-1">
               <a href="./protfolio.html" class="left__cont">
                 <span
-                  class="text-clr_base xl:mb-4 mb-2 block uppercase xl:text-lg text-base"
+                  class=" xl:mb-4 mb-2 block uppercase xl:text-lg "
                 >
                   UI/UX DESIGN
                 </span>
@@ -214,7 +214,7 @@
             <div class="content flex items-center justify-between gap-1">
               <a href="./protfolio.html" class="left__cont">
                 <span
-                  class="text-clr_base xl:mb-4 mb-2 block uppercase xl:text-lg text-base"
+                  class=" xl:mb-4 mb-2 block uppercase xl:text-lg "
                 >
                   UI/UX DESIGN
                 </span>
@@ -255,7 +255,7 @@
             <div class="content flex items-center justify-between gap-1">
               <a href="./protfolio.html" class="left__cont">
                 <span
-                  class="text-clr_base xl:mb-4 mb-2 block uppercase xl:text-lg text-base"
+                  class=" xl:mb-4 mb-2 block uppercase xl:text-lg "
                 >
                   UI/UX DESIGN
                 </span>
@@ -288,7 +288,7 @@
           >
             <span class="relative  ">
               <i
-                class="bi-arrow-right mb-[1px] md:text-[28px] text-base text-center flex justify-center text-clr_title transition-all"
+                class="bi-arrow-right mb-[1px] md:text-[28px]  text-center flex justify-center text-clr_title transition-all"
               >
               </i>
               <span

@@ -1,0 +1,2 @@
+last component hover color need to fix
+FOOTER HOVER TO BE FIX 

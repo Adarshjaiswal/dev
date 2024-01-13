@@ -1,7 +1,7 @@
 <template>
    <!-- ----------- Metting start -->
    <section
-      class="bg-common_bg bg-black m-12  bg-center bg-no-repeat bg-cover rounded-[10px] overflow-hidden p-5"
+      class="bg-common_bg bg-[#1D1D1D] m-12  bg-center bg-no-repeat bg-cover rounded-[10px] overflow-hidden p-5"
     >
       <div
         class="xl:max-w-[1350px] lg:max-w-[960px] md:max-w-2xl sm:max-w-xl xl mx-auto px-3"
@@ -11,7 +11,7 @@
             <!-- ---------- Heading -->
             <div class="pb-[50px]">
               <span
-                class="text-2xl font-caveat text-clr_base relative flex items-center sm:gap-6 gap-[14px] mx-auto mb-[30px]"
+                class="text-2xl font-caveat text-white relative flex items-center sm:gap-6 gap-[14px] mx-auto mb-[30px]"
                 data-aos="fade-down"
                 data-aos-duration="1000"
               >
@@ -43,12 +43,12 @@
                   <i class="bi-envelope text-[26px] text-clr_title"></i>
                 </span>
                 <span class="">
-                  <span class="text-white md:text-lg text-base mb-1 block">
+                  <span class="text-white md:text-lg  mb-1 block">
                     Email
                   </span>
                   <a
                     href=""
-                    class="text-white md:text-xl text-base font-medium"
+                    class="text-white md:text-xl  font-medium"
                   >
                     davidmatias3</a
                   >
@@ -65,12 +65,12 @@
                   <i class="bi-geo-alt text-[26px] text-clr_title"></i>
                 </span>
                 <span class="">
-                  <span class="text-white md:text-lg text-base mb-1 block">
+                  <span class="text-white md:text-lg  mb-1 block">
                     Location
                   </span>
                   <a
                     href=""
-                    class="text-white md:text-xl text-base font-medium"
+                    class="text-white md:text-xl  font-medium"
                   >
                     Victoria Street London, England
                   </a>
